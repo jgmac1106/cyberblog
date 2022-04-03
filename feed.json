@@ -7,6 +7,78 @@
 	"items": [
 		
 			{
+				"id": "http://DoctorMac.micro.blog/2022/03/28/in-reply-to.html",
+				
+				"content_html": "<p>RSVPd Yes to <a href=\"https://ndianewengland.org/index.php/event/6th-annual-ndia-new-england-cyber-event/\" class=\"u-irsvp\">6th Annual NDIA New England Cyber Event - Zero Trust: Improving the Nation&rsquo;s Cybersecurity</a></p>\n\n<p>Looking forward to talking building a risk based zero trust cloud based  architecture while meeting boundary based  compliance requirements for onprem environments.</p>\n",
+				"content_text": "RSVPd Yes to <a href=\"https://ndianewengland.org/index.php/event/6th-annual-ndia-new-england-cyber-event/\" class=\"u-irsvp\">6th Annual NDIA New England Cyber Event - Zero Trust: Improving the Nation's Cybersecurity</a>\n\nLooking forward to talking building a risk based zero trust cloud based  architecture while meeting boundary based  compliance requirements for onprem environments. \n",
+				"date_published": "2022-03-28T09:08:00-04:00",
+				"url": "https://www.drmacscybersecuritybrief.com/2022/03/28/in-reply-to.html"
+			},
+			{
+				"id": "http://DoctorMac.micro.blog/2022/03/23/matt-carson-on.html",
+				
+				"content_html": "<p>Matt Carson on Lesson Learned from a DIBCAC assessment.</p>\n",
+				"content_text": "Matt Carson on Lesson Learned from a DIBCAC assessment. \n",
+				"date_published": "2022-03-23T10:27:00-04:00",
+				"url": "https://www.drmacscybersecuritybrief.com/2022/03/23/matt-carson-on.html"
+			},
+			{
+				"id": "http://DoctorMac.micro.blog/2022/03/23/081200.html",
+				
+				"content_html": "<p>Jacob Horne. Make 171 A framework again</p>\n",
+				"content_text": "Jacob Horne. Make 171 A framework again \n",
+				"date_published": "2022-03-23T08:12:00-04:00",
+				"url": "https://www.drmacscybersecuritybrief.com/2022/03/23/081200.html"
+			},
+			{
+				"id": "http://DoctorMac.micro.blog/2022/03/22/140400.html",
+				
+				"content_html": "<p>Ryan Bonner on working with your MSP on CMMC</p>\n",
+				"content_text": "Ryan Bonner on working with your MSP on CMMC \n",
+				"date_published": "2022-03-22T14:04:00-04:00",
+				"url": "https://www.drmacscybersecuritybrief.com/2022/03/22/140400.html"
+			},
+			{
+				"id": "http://DoctorMac.micro.blog/2022/03/22/130900.html",
+				
+				"content_html": "<p>Allison Giddens on Signal versus Noise : Understanding Common CMMC Vendor Tactics</p>\n",
+				"content_text": "Allison Giddens on Signal versus Noise : Understanding Common CMMC Vendor Tactics \n",
+				"date_published": "2022-03-22T13:09:00-04:00",
+				"url": "https://www.drmacscybersecuritybrief.com/2022/03/22/130900.html"
+			},
+			{
+				"id": "http://DoctorMac.micro.blog/2022/03/22/allison-giddens-on.html",
+				
+				"content_html": "<p>Allison Giddens on Signal versus noise. Understanding Common CMMC Vendor Tactics</p>\n",
+				"content_text": "Allison Giddens on Signal versus noise. Understanding Common CMMC Vendor Tactics \n",
+				"date_published": "2022-03-22T13:05:00-04:00",
+				"url": "https://www.drmacscybersecuritybrief.com/2022/03/22/allison-giddens-on.html"
+			},
+			{
+				"id": "http://DoctorMac.micro.blog/2022/03/22/110800.html",
+				
+				"content_html": "<p>Richard Wakeman on Microsoft&rsquo;s Acceleration Program</p>\n",
+				"content_text": "Richard Wakeman on Microsoft's Acceleration Program \n",
+				"date_published": "2022-03-22T11:08:00-04:00",
+				"url": "https://www.drmacscybersecuritybrief.com/2022/03/22/110800.html"
+			},
+			{
+				"id": "http://DoctorMac.micro.blog/2022/03/22/richard-wakeman-on.html",
+				
+				"content_html": "<p>Richard Wakeman on Microsoft&rsquo;s Acceleration Program</p>\n",
+				"content_text": "Richard Wakeman on Microsoft's Acceleration Program\n",
+				"date_published": "2022-03-22T11:07:00-04:00",
+				"url": "https://www.drmacscybersecuritybrief.com/2022/03/22/richard-wakeman-on.html"
+			},
+			{
+				"id": "http://DoctorMac.micro.blog/2022/03/22/scott-goodwin-cmmc.html",
+				
+				"content_html": "<p>Scott Goodwin CMMC is about Cybersecurity, Remember?</p>\n",
+				"content_text": "Scott Goodwin CMMC is about Cybersecurity, Remember? \n",
+				"date_published": "2022-03-22T10:02:00-04:00",
+				"url": "https://www.drmacscybersecuritybrief.com/2022/03/22/scott-goodwin-cmmc.html"
+			},
+			{
 				"id": "http://DoctorMac.micro.blog/2022/03/22/at-summit-cs.html",
 				
 				"content_html": "<p>At Summit 7 CS2 CMMC conference</p>\n",
